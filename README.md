@@ -119,7 +119,11 @@ pytest tests/ -v
 ## 👨‍🎓 Autor
 
 **Nario Germán Reyes Ríos**  
-Proyecto final para el curso de desarrollo de aplicaciones con Python.  
+**Yohan Pool Ricse Peralta**
+**John Espinoza Mendoza**
+**Jose Samuel Delgadillo Pantoja** 
+**Henry Lozano Porta**  
+Proyecto final para el curso Construccion de Software
 Institución educativa – 2025
 
 ---
