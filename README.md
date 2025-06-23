@@ -116,12 +116,14 @@ pytest tests/ -v
 
 ---
 
-👨‍🎓 Autores
-Nario Germán Reyes Ríos
-Yohan Pool Ricse Peralta
-John Espinoza Mendoza
-Jose Samuel Delgadillo Pantoja
-Henry Lozano Porta
+## 👨‍🎓 Autores
+
+**Nario Germán Reyes Ríos**  
+**Yohan Pool Ricse Peralta**  
+**John Espinoza Mendoza**  
+**Jose Samuel Delgadillo Pantoja**  
+**Henry Lozano Porta**
+
 
 
 Proyecto final para el curso Construccion de Software
